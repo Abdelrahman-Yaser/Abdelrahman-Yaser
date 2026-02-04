@@ -1,47 +1,41 @@
-I’m a passionate Backend Developer with strong skills in Node.js, NestJS, and TypeScript, while also experienced in frontend development using React.js. I thrive on building scalable, efficient, and secure web applications and enjoy transforming complex ideas into clean, maintainable solutions.
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-⸻
+<h3 align="center">
+  Welcome to Moaz Ashraf's profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-🔧 What I Do:
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;System%20Analysis%20&%20Database%20Design;Building%20Business-Focused%20Systems&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p> 
 
-Build and maintain RESTful APIs and backend services using Node.js, NestJS, and Express.js.
+- 🏢 Passionate about **system analysis**, **database design**, and building **business-oriented systems**.
+- 👨‍💻 Focused on **understanding business requirements first** to create systems that are effective, scalable, and maintainable.
+- 💬 Experienced in **Node.js, MongoDB, and Mongoose**, and designing robust backend architectures.
+- 😃 Always eager to collaborate, share knowledge, and build systems that solve real-world problems efficiently.
 
-Design and optimize PostgreSQL and MongoDB databases with TypeORM and Prisma.
+---
 
-Implement authentication & authorization with JWT and secure API endpoints.
+### Connect with Me
 
-Collaborate on full-stack applications, connecting backend services with React-based frontends.
+<a href="https://www.linkedin.com/in/moaz-ashraf-a07142233/" target="_blank">
+  <img src="https://img.shields.io/badge/-Moaz%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/MoazAshraf11" target="_blank">
+  <img src="https://img.shields.io/badge/-Moaz%20Ashraf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
 
-Apply caching strategies with Redis and optimize backend performance.
+---
 
-⸻
-
-📚 I’m Currently Learning:
-
-Advanced NestJS architecture and backend design patterns.
-
-Microservices fundamentals and scalable system design.
-
-CI/CD pipelines and containerization with Docker for production-ready deployments.
-
-⸻
-
-🎯 Fun Fact:
-I enjoy tackling real-world problems with code and staying updated with the latest backend and full-stack development trends.
-
-⸻
-
-🌐 Socials:
-Facebook • Instagram • LinkedIn
-
-⸻
-
-💻 Tech Stack:
-
-Backend: Node.js, NestJS, Express.js, TypeScript, PostgreSQL, MongoDB, TypeORM, Prisma, Redis, JWT, REST APIs, Docker
-
-Frontend: React.js, Redux, React Query, React Router, Tailwind CSS, Next.js, HTML5, CSS3, JavaScript (ES6+), MUI, Bootstrap
-
-Tools & Others: Git, GitHub, Postman, CI/CD basics
-
-⸻
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
