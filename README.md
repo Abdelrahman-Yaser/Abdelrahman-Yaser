@@ -49,19 +49,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Yaser&show_icons=true&theme=radical&count_private=true" alt="Abdelrahman's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Yaser&theme=radical" alt="Abdelrahman's Streak" />
 </p>
+
+---
 
 ---
 
 ### Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/Abdelrahman-Yaser" target="_blank">
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-37935b28b" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:abdooy640@@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 </p>
